@@ -1,5 +1,6 @@
 // Do not modify
 #include <stdio.h>
+#include <stdbool.h>
 
 bool isValidString(const char *str);
 
